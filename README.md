@@ -1,13 +1,15 @@
 <h1 align="center">Bem-vindo! Eu sou o Thiago,</h1>
 <h3 align="center">um desenvolvedor fullstack em expansão.</h3>
 
+<br>
 
-<p align="center">Desde pequeno sempre apaixonado por tecnologia, e com uma forte obsessão por tudo que contém botões. Meu sonho é, sempre foi e sempre será desenvolver coisas, sempre arrumando uma forma de tirar as ideias cabeça como um desenvolvedor fullstack.</p>
+
+<p align="left">Desde pequeno sempre apaixonado por tecnologia, e com uma forte obsessão por tudo que contém botões. Meu sonho é, sempre foi e sempre será desenvolver coisas, sempre arrumando uma forma de tirar as ideias cabeça como um desenvolvedor fullstack.</p>
 
 <br>
 
 
-<p align="center">
+<p align="left">
 <img align="center" src="type.gif" alt="Typing gif" height="200" width="300" />
 </p>
 <h3 align="left">Entre em contato:
