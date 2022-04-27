@@ -4,7 +4,7 @@
 <br>
 
 
-<p align="left">Desde pequeno sempre apaixonado por tecnologia, e com uma forte obsessão por tudo que contém botões. Meu sonho é, sempre foi e sempre será desenvolver coisas, sempre arrumando uma forma de tirar as ideias cabeça como um desenvolvedor fullstack.</p>
+<p align="left">Desde pequeno sempre apaixonado por tecnologia, e com uma forte obsessão por tudo que contém botões. Meu sonho é, sempre foi e sempre será desenvolver coisas, sempre arrumando uma forma de tirar as ideias cabeça com meu código.</p>
 
 <br>
 
