@@ -14,7 +14,10 @@
 </p>
 <h3 align="left">Entre em contato:
 </h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiagoramoslima-ti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiagoramoslima-ti/" height="30" width="40" /></a>
+<div> 
+  <a href = "mailto:marcomecenasfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <br>
 
 <h3 align="left">Minhas tecnologias:</h3>
